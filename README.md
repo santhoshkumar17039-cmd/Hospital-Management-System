@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230251
+# Name: SANTHOSH KUMAR S S
+# Date:25/11/2026
 
 
 # AIM:
