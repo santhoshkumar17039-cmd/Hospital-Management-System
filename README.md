@@ -79,6 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1232" height="964" alt="Screenshot 2026-11-03 141046" src="https://github.com/user-attachments/assets/b955c035-ded7-4f50-a58a-9c91c4133536" />
 
 
 
@@ -108,6 +109,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1146" height="895" alt="image" src="https://github.com/user-attachments/assets/36ed0faa-db0c-4080-98f3-d8ad4a6ede2b" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
